@@ -1,0 +1,281 @@
+a{
+  text-decoration: none;
+  color: black;
+}
+
+ul{
+  list-style: none;
+}
+.navbar-up li{
+  display: inline;
+}
+.navbar-down li{
+  display: inline;
+}
+h1{
+  color: white;
+}
+span{
+  color: white;
+}
+body{
+  font-family: 'Calibri';
+  margin: 0;
+}
+.header-menu{
+  display: flex;
+}
+.navbar{
+  flex: 1;
+  display: flex;
+  flex-direction: column;
+}
+.navbar-sig a{
+  color: #3ea9f5;
+}
+.navbar-sig:hover{
+  cursor: pointer;
+}
+.navbar-sig i{
+  color: #3EA9F5;
+}
+.navbar-log a{
+  color: #60748b;
+}
+.navbar-log i{
+  color: #60748b;
+}
+.navbar-log:hover{
+  cursor: pointer;
+}
+.navbar-up{
+  border-right: solid 1px  #969696;
+  border-bottom: solid 1px  #969696;
+  border-left: solid 1px  #969696;
+}
+.navbar-up a {
+  padding: 0px 15px;
+}
+.navbar-down{
+  background-color: #dddddd;
+  border: solid 1px  #969696;
+}
+.navbar-down a{
+  padding: 0px 15px;
+}
+.wistia-logo {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  border-right: solid 1px  #969696;
+  padding: 0px 50px;
+  color: black;
+}
+.navbar-sig{
+  display: flex;
+  align-items: center;
+  padding: 0px 50px;
+  border-right: solid 1px  #969696;
+}
+.navbar-log{
+  display: flex;
+  align-items: center; 
+  padding: 0px 50px; 
+}
+
+
+
+
+          .cnx{
+            list-style-type:none;
+            margin:0;
+            padding:0;
+            border: solid black;
+            border-width: thin;
+            
+
+             }
+
+    
+ 
+
+.main1{ background-color: #cea0af;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  
+   }
+   
+   .h1{
+    margin: 0 30px 0 150px;
+    display: flex;
+    
+    flex-direction: column;
+    font-size: 30px; 
+   }
+
+   .header-title{
+     font-size: 50px;
+     margin-top: -80px;
+    
+   }
+
+.button{
+  border: center;
+  border-radius:10px 10px 10px 10px;
+  color: black;
+  padding: 15px 20px;
+  font-size: 16px;
+  margin: 4px 2px;
+  width: 30%;
+  background-color: white;
+  cursor: pointer;
+  
+}
+
+.button:hover {
+  
+    transform: translateY(-5px);
+    background-color: white;
+    background: white;
+  
+}
+
+.main2{display: flex;}
+
+.box{ 
+  display: inline;
+  float: left;
+  padding: 50px;
+flex-grow: 1}
+
+.start{
+  background-color:white;
+   border: 2px solid white;
+   border-radius: 7px;
+  padding: 16px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  margin: 4px 2px;
+  cursor: pointer;
+
+}
+.start1{
+  background-color:rgba(255, 255, 0, 0.699);
+  margin:20px;
+}
+.start1:hover {
+  background-color: white;
+  color: black;
+  transform: translateY(-5px);
+
+}
+.start2{
+  background-color: rgb(0, 255, 191);
+  margin:20px;
+}
+.start2:hover {
+  background-color: white;
+  color: black;
+  transform: translateY(-5px);
+
+}
+  .start3{
+    background-color: rgb(0, 132, 255);
+    margin:20px;
+  }
+  .start3:hover {
+    background-color:white;
+    color: black;
+    transform: translateY(-5px);}
+    
+
+.images{  display:flex;
+  align-items: center;
+  justify-content : space-around;
+  padding: 50px;
+  margin:50px;
+     }
+              
+      
+   .img-container{
+    display:flex;
+    width: 80px; }
+    
+   
+   
+   .main3{display:flex;
+    padding: 40px;
+    margin:0px;
+    justify-content: space-around;
+}
+
+.footer{
+  
+  border: solid rgb(233, 240, 239);
+  background-color: rgb(233, 240, 239);
+  text-align: center;
+}
+
+.h5{color: white;
+  font-size: 20px;
+  font-weight: 500;
+  line-height: 1.5;
+  max-width: 270px;
+  padding: 15px 0;
+
+}
+.about-us{
+  padding: 1px;
+  margin: 0px;
+}
+.footer2{
+  display: flex;
+  border:solid #2A2D35;
+  background-color: #2A2D35;
+  padding: 100px;
+  margin:0;
+  justify-content: space-between;
+
+}
+
+.follow{ color:white;
+}
+.link{
+  color:rgb(0, 217, 255);
+  text-decoration: none;
+}
+
+.product .grey{
+
+  display:block;
+  padding: 12px;
+  color:grey
+  
+}
+.Company .grey{
+
+  display:block;
+  padding: 12px;
+  color:grey
+  
+}
+
+.Learn .grey{
+
+  display:block;
+  padding: 12px;
+  color:grey
+  
+}
+
+.Support .grey{
+
+  display:block;
+  padding: 12px;
+  color:grey
+  
+}
+
